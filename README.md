@@ -29,7 +29,9 @@
 
 Скачиваем скрипт бэкапа
 ```sh
-wget https://raw.githubusercontent.com/lQwestl/OpenWrt-Smart-Backup-Restore/main/smart_backup.sh
+wget -O /root/smart_backup.sh https://raw.githubusercontent.com/lQwestl/OpenWrt-Smart-Backup-Restore/main/smart_backup.sh
+wget -O /root/smart_restore.sh https://raw.githubusercontent.com/lQwestl/OpenWrt-Smart-Backup-Restore/main/smart_restore.sh
+chmod +x /root/smart_backup.sh /root/smart_restore.sh
 ```
 
 ```sh
