@@ -158,6 +158,8 @@ chmod +x /root/smart_backup.sh /root/smart_restore.sh
 
 > **Важно:** после установки Podkop необходимо создать профиль с именем **`main`** в настройках Podkop через веб-интерфейс LuCI. Без профиля `main` Podkop не будет работать.
 
+<img width="1197" height="703" alt="image" src="https://github.com/user-attachments/assets/92ecf7fa-8fab-430f-8986-094a1bbbade5" />
+
 ---
 
 ## Что сохраняется в бэкапе
