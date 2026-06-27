@@ -34,10 +34,6 @@ wget -O /root/smart_restore.sh https://raw.githubusercontent.com/lQwestl/OpenWrt
 chmod +x /root/smart_backup.sh /root/smart_restore.sh
 ```
 
-```sh
-chmod +x smart_backup.sh smart_restore.sh
-```
-
 ---
 
 ## Использование
