@@ -27,7 +27,10 @@
 
 ## Установка
 
-Скопируйте скрипты на роутер (например, в `/root/`) и дайте права на выполнение:
+Скачиваем скрипт бэкапа
+```sh
+wget https://raw.githubusercontent.com/lQwestl/OpenWrt-Smart-Backup-Restore/main/smart_backup.sh
+```
 
 ```sh
 chmod +x smart_backup.sh smart_restore.sh
